@@ -1,0 +1,51 @@
+body {
+  padding-top: 70px;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  color: white;
+}
+
+.span-button {
+  cursor: pointer;
+}
+
+.card-spacing {
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.link-css {
+  color: blue;
+  cursor: pointer;
+}
+
+hr.new1 {
+  border-top: 2px dashed grey;
+}
+
+.edit-button {
+  position: absolute;
+  top: 20px;
+  right: 55px;
+  color: cyan;
+}
+
+.delete-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: cyan;
+}
+
+.button-css:active {
+  transform: translateY(3px);
+}
+
+.button-css:focus {
+  outline: 0;
+}
