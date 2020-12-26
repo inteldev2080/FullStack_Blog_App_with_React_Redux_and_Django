@@ -1,6 +1,6 @@
 # FullStack Blog App with React Redux and Django
 A Fullstack CRUD Blog App with Django User Authentication (Token Authentication), Technologies Used: React, Redux, Django, REST Framework, Knox, HTML, CSS, Bootstrap and Fontawesome
-
+ 
 # Aplication Preview
 
 ## Login Page
