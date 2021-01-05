@@ -45,7 +45,6 @@ export class Form extends Component {
             placeholder="your description"
             name="description"
             ref={(input) => (this.getDescription = input)}
-            onChange={this.onChange}
             value={this.getDescription}
             rows="18"
             cols="41"
